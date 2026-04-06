@@ -1,15 +1,5 @@
 <div align="center">
   <h1>Smart Alarm Clock & Weather Station</h1>
-  <p>
-    <img src="https://img.shields.io/badge/Microcontroller-ESP8266-blueviolet?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP8266">
-    <img src="https://img.shields.io/badge/RTC-DS1307-green?style=for-the-badge&logo=clock&logoColor=white" alt="DS1307">
-    <img src="https://img.shields.io/badge/Sensor-DHT22-orange?style=for-the-badge&logo=temperature&logoColor=white" alt="DHT22">
-    <img src="https://img.shields.io/badge/Display-LCD%2020x4%20I2C-blue?style=for-the-badge&logo=display&logoColor=white" alt="LCD I2C">
-    <img src="https://img.shields.io/badge/Control-4%20Push%20Buttons-teal?style=for-the-badge&logo=keyboard&logoColor=white" alt="Buttons">
-    <img src="https://img.shields.io/badge/Buzzer-Active%20Buzzer-red?style=for-the-badge&logo=speaker&logoColor=white" alt="Buzzer">
-    <img src="https://img.shields.io/badge/Cloud-Firebase-critical?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
-    <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  </p>
 </div>
 
 <br>
