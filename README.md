@@ -10,17 +10,6 @@
     <img src="https://img.shields.io/badge/Cloud-Firebase-critical?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
     <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   </p>
-
-  ---
-  <p>
-    <a href="#-overview">Overview</a> •
-    <a href="#-key-features">Key Features</a> •
-    <a href="#-setup-guide">Setup Guide</a> •
-    <a href="#-web-dashboard">Web Dashboard</a> •
-    <a href="#-screenshots">Screenshots</a> •
-    <a href="#-development-team">Development Team</a>
-  </p>
-  ---
 </div>
 
 <br>
